@@ -2,3 +2,21 @@ html {
     background: url('./assets/pokelandscape.gif') no-repeat center fixed;
     background-size: cover;
 }
+
+.container {
+    margin: 0 auto;
+    max-width: 400px;
+    height: auto;
+    background-color: #2D2C2C;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+nav {
+    color: #F0EFF4;
+}
+
+.trainer-image {
+    max-width: 200px;
+    height: auto;
+}
